@@ -26,5 +26,5 @@ Please commit frequently to communicate your throughts while working on this ass
 Try not to spend more than 4 hours on this.  You are not necessarily expected to do everything in this assignment because of the short duration. 
 
 ## Tech 
-- Native iOS frameworks only (no Flutter sorry) 
+- Native iOS frameworks only, Swift or Objcetive-C (no Flutter sorry) 
 - Use whatever libraries you are comfortable with
